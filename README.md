@@ -1,1 +1,1 @@
-# hackerai-bot
+Telegram HackerAI-style bot
